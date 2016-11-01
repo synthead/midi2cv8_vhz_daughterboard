@@ -6,7 +6,7 @@ At the moment, there are [three bugs](https://github.com/synthead/midi2cv8_vhz_d
 
 ![image](https://cloud.githubusercontent.com/assets/820984/19833827/5a52c408-9e05-11e6-9223-d5be5d4695d1.png)
 
-In addition, if you're adding this V/Hz daughterboard to a midi2cv8 that is already configured for V/octave CV, you'll have to change two resistors on the midi2cv8 motherboard.  This wasn't obvious to me and spent a couple days trying to figure it out, so I thought I'd mention it here as well.  Here are the values from page 12 of the midi2cv8 manual:
+In addition, if you're adding this V/Hz daughterboard to a midi2cv8 that is already configured for V/octave CV, you'll have to change resistor *R28 (a 5.6k ohm resistor should be there), and add a new resistor to #R32 on the midi2cv8 motherboard.  This wasn't obvious to me and spent a couple days trying to figure it out, so I thought I'd mention it here as well.  Here are the values from page 12 of the midi2cv8 manual:
 
 |Designation|Value|Color Code A-B-C|
 |---|---|---|
