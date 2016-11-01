@@ -11,7 +11,7 @@ In addition, if you're adding this V/Hz daughterboard to a midi2cv8 that is alre
 |Designation|Value|Color Code A-B-C|
 |---|---|---|
 |\*R28|2700|red-violet-red|
-|\*#R32|2700|red-violet-red|
+|#R32|2700|red-violet-red|
 
 Also, if this is the first time you're etching a board, I highly recommend tearing out a glossy page from a magazine and printing onto it for your toner transfer.  Also, don't bother with clothing irons.  I use an unmodified Swingline 1000L laminator.  Tape up the magazine paper so it doesn't slip around, then run it through the laminator a dozen times or so.  If you do it right, you'll end up with a transfer looking like this:
 
